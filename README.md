@@ -9,18 +9,18 @@
 
 ## 快速导航
 
-- [生物信息、基因组与育种（12）](#生物信息基因组育种)
-- [科研与学术工作流（15）](#科研学术工作流)
-- [大模型、Agent与AI应用（25）](#大模型agentai应用)
-- [深度学习与机器学习（13）](#深度学习机器学习)
-- [深度学习学习资料（13）](#深度学习学习资料)
-- [Android与移动端（8）](#android移动端)
-- [哔哩哔哩、影音与漫画（18）](#哔哩哔哩影音漫画)
-- [网络代理与远程控制（14）](#网络代理远程控制)
-- [安全、隐私与测试（8）](#安全隐私测试)
-- [开发工具与Web（7）](#开发工具web)
-- [自托管、效率与副业（3）](#自托管效率副业)
-- [生活、娱乐与杂项（10）](#生活娱乐杂项)
+- [生物信息、基因组与育种（12）](#bio-breeding)
+- [科研与学术工作流（15）](#research-workflow)
+- [大模型、Agent与AI应用（25）](#llm-agent)
+- [深度学习与机器学习（13）](#deep-learning)
+- [深度学习学习资料（13）](#dl-learning)
+- [Android与移动端（8）](#android-mobile)
+- [哔哩哔哩、影音与漫画（18）](#media-entertainment)
+- [网络代理与远程控制（14）](#network-remote)
+- [安全、隐私与测试（8）](#security-privacy)
+- [开发工具与Web（7）](#dev-web)
+- [自托管、效率与副业（3）](#selfhost-productivity)
+- [生活、娱乐与杂项（10）](#life-misc)
 
 ## 分类统计
 
@@ -39,6 +39,8 @@
 | 自托管、效率与副业 | 3 |
 | 生活、娱乐与杂项 | 10 |
 
+<a id="bio-breeding"></a>
+
 ## 生物信息、基因组与育种（12）
 
 | 仓库 | 细分用途 | 标签 | 中文说明 | Stars | 状态 |
@@ -55,6 +57,8 @@
 | [IndigoFloyd/SoyDNGPNext](https://github.com/IndigoFloyd/SoyDNGPNext) | G×E与基因组选择 | G×E、基因组选择、育种 | 面向大豆基因组预测的深度学习生物信息工具包。 | 25 | 活跃/未归档 |
 | [Deep-Breeding/GEFormer](https://github.com/Deep-Breeding/GEFormer) | G×E与基因组选择 | G×E、基因组选择、育种 | 联合基因型与环境信息预测作物表型的深度学习 G×E 模型。 | 18 | 活跃/未归档 |
 | [dupuquan/maize-f1](https://github.com/dupuquan/maize-f1) | G×E与基因组选择 | G×E、基因组选择、育种 | 玉米 F1 相关研究代码与 Notebook。 | 1 | 活跃/未归档 |
+
+<a id="research-workflow"></a>
 
 ## 科研与学术工作流（15）
 
@@ -75,6 +79,8 @@
 | [LMDHQ-0420/ResearchPilot-Skills](https://github.com/LMDHQ-0420/ResearchPilot-Skills) | AI科研工作流 | 论文写作、文献综述、Agent Skill | 用于文献调研、论文写作、审稿或科研流程自动化。 | 307 | 活跃/未归档 |
 | [yunshenwuchuxun/latex-paper-skills](https://github.com/yunshenwuchuxun/latex-paper-skills) | AI科研工作流 | 论文写作、文献综述、Agent Skill | 用于文献调研、论文写作、审稿或科研流程自动化。 | 266 | 活跃/未归档 |
 | [SNL-UCSB/literature-survey-skill](https://github.com/SNL-UCSB/literature-survey-skill) | AI科研工作流 | 论文写作、文献综述、Agent Skill | 用于文献调研、论文写作、审稿或科研流程自动化。 | 106 | 活跃/未归档 |
+
+<a id="llm-agent"></a>
 
 ## 大模型、Agent与AI应用（25）
 
@@ -106,6 +112,8 @@
 | [lfzk550/fanzha-ai-proxy](https://github.com/lfzk550/fanzha-ai-proxy) | AI自动化应用 | AI应用、自动化 | 将 AI 用于具体业务或自动化场景。 | 601 | 活跃/未归档 |
 | [LeaveC/xianyubot](https://github.com/LeaveC/xianyubot) | AI自动化应用 | AI应用、自动化 | 将 AI 用于具体业务或自动化场景。 | 79 | 活跃/未归档 |
 
+<a id="deep-learning"></a>
+
 ## 深度学习与机器学习（13）
 
 | 仓库 | 细分用途 | 标签 | 中文说明 | Stars | 状态 |
@@ -123,6 +131,8 @@
 | [huggingface/accelerate](https://github.com/huggingface/accelerate) | 训练工程与框架 | PyTorch、训练工程 | 用于深度学习训练、调参、分布式运行或工程化。 | 9911 | 活跃/未归档 |
 | [PaddlePaddle/PaddleX](https://github.com/PaddlePaddle/PaddleX) | 训练工程与框架 | PyTorch、训练工程 | 用于深度学习训练、调参、分布式运行或工程化。 | 6269 | 活跃/未归档 |
 | [ZhugeKongan/torch-template-for-deep-learning](https://github.com/ZhugeKongan/torch-template-for-deep-learning) | 训练工程与框架 | PyTorch、训练工程 | 用于深度学习训练、调参、分布式运行或工程化。 | 1269 | 活跃/未归档 |
+
+<a id="dl-learning"></a>
 
 ## 深度学习学习资料（13）
 
@@ -142,6 +152,8 @@
 | [lib-pku/libpku](https://github.com/lib-pku/libpku) | 学习路线与资源索引 | 学习路线、资源 | 学习路线、课程资料或开源项目索引。 | 34073 | 活跃/未归档 |
 | [easychen/stack-roadmap](https://github.com/easychen/stack-roadmap) | 学习路线与资源索引 | 学习路线、资源 | 学习路线、课程资料或开源项目索引。 | 4586 | 活跃/未归档 |
 
+<a id="android-mobile"></a>
+
 ## Android与移动端（8）
 
 | 仓库 | 细分用途 | 标签 | 中文说明 | Stars | 状态 |
@@ -154,6 +166,8 @@
 | [8Mi-Tech/LSPatch-ApkFactory](https://github.com/8Mi-Tech/LSPatch-ApkFactory) | 系统、Root与模块 | Android、系统工具 | Android 系统增强、Root、补丁或兼容工具。 | 123 | 活跃/未归档 |
 | [f-droid/fdroidclient](https://github.com/f-droid/fdroidclient) | 应用与商店 | Android应用 | Android 应用或开源应用分发工具。 | 3182 | 活跃/未归档 |
 | [alpha-liu-01/SpeedyNote](https://github.com/alpha-liu-01/SpeedyNote) | 应用与商店 | Android应用 | Android 应用或开源应用分发工具。 | 1687 | 活跃/未归档 |
+
+<a id="media-entertainment"></a>
 
 ## 哔哩哔哩、影音与漫画（18）
 
@@ -178,6 +192,8 @@
 | [amitbl/blocktube](https://github.com/amitbl/blocktube) | 视频内容过滤 | YouTube、浏览器扩展、内容过滤 | 屏蔽 YouTube 指定频道、视频或评论的浏览器扩展。 | 1409 | 活跃/未归档 |
 | [Xposed-Modules-Repo/com.chrxw.purenga](https://github.com/Xposed-Modules-Repo/com.chrxw.purenga) | 社区客户端增强 | NGA、Android、去广告 | NGA 玩家论坛客户端去广告 Xposed 模块。 | 0 | 活跃/未归档 |
 
+<a id="network-remote"></a>
+
 ## 网络代理与远程控制（14）
 
 | 仓库 | 细分用途 | 标签 | 中文说明 | Stars | 状态 |
@@ -197,6 +213,8 @@
 | [viarotel-org/escrcpy](https://github.com/viarotel-org/escrcpy) | 远程控制与串流 | 远程控制、串流 | 手机投屏、设备远控、桌面控制或串流。 | 12008 | 活跃/未归档 |
 | [galaxy-s10/billd-desk](https://github.com/galaxy-s10/billd-desk) | 远程控制与串流 | 远程控制、串流 | 手机投屏、设备远控、桌面控制或串流。 | 8375 | 活跃/未归档 |
 
+<a id="security-privacy"></a>
+
 ## 安全、隐私与测试（8）
 
 | 仓库 | 细分用途 | 标签 | 中文说明 | Stars | 状态 |
@@ -210,6 +228,8 @@
 | [wanghongenpin/proxypin](https://github.com/wanghongenpin/proxypin) | 抓包、取证与隐私 | 抓包、取证、浏览器 | 用于网络抓包、浏览器数据分析或隐私研究。 | 14091 | 活跃/未归档 |
 | [jo-inc/camofox-browser](https://github.com/jo-inc/camofox-browser) | 抓包、取证与隐私 | 抓包、取证、浏览器 | 用于网络抓包、浏览器数据分析或隐私研究。 | 11499 | 活跃/未归档 |
 
+<a id="dev-web"></a>
+
 ## 开发工具与Web（7）
 
 | 仓库 | 细分用途 | 标签 | 中文说明 | Stars | 状态 |
@@ -222,6 +242,8 @@
 | [wanglin2/mind-map](https://github.com/wanglin2/mind-map) | 前端、UI与可视化 | Web、前端 | Web 前端、UI 组件或交互可视化工具。 | 12802 | 活跃/未归档 |
 | [TouchBugs/web](https://github.com/TouchBugs/web) | 前端、UI与可视化 | Web、前端 | 点击香蕉增加数字的网页小游戏。 | 1 | 活跃/未归档 |
 
+<a id="selfhost-productivity"></a>
+
 ## 自托管、效率与副业（3）
 
 | 仓库 | 细分用途 | 标签 | 中文说明 | Stars | 状态 |
@@ -229,6 +251,8 @@
 | [easychen/opc-methodology](https://github.com/easychen/opc-methodology) | 个人效率与副业 | 副业、个人效率 | 个人效率、独立开发或副业方法资料。 | 16886 | 活跃/未归档 |
 | [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | 自托管与资源索引 | 自托管、资源 | 自托管服务或互联网资源目录。 | 324853 | 活跃/未归档 |
 | [fmhy/FMHY](https://github.com/fmhy/FMHY) | 自托管与资源索引 | 自托管、资源 | 自托管服务或互联网资源目录。 | 15014 | 活跃/未归档 |
+
+<a id="life-misc"></a>
 
 ## 生活、娱乐与杂项（10）
 
