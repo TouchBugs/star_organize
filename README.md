@@ -15,13 +15,12 @@
 - [深度学习与机器学习（13）](#深度学习机器学习)
 - [深度学习学习资料（13）](#深度学习学习资料)
 - [Android与移动端（8）](#android移动端)
-- [哔哩哔哩、影音与漫画（16）](#哔哩哔哩影音漫画)
+- [哔哩哔哩、影音与漫画（18）](#哔哩哔哩影音漫画)
 - [网络代理与远程控制（14）](#网络代理远程控制)
 - [安全、隐私与测试（8）](#安全隐私测试)
 - [开发工具与Web（7）](#开发工具web)
 - [自托管、效率与副业（3）](#自托管效率副业)
 - [生活、娱乐与杂项（10）](#生活娱乐杂项)
-- [其他待整理（2）](#其他待整理)
 
 ## 分类统计
 
@@ -33,13 +32,12 @@
 | 深度学习与机器学习 | 13 |
 | 深度学习学习资料 | 13 |
 | Android与移动端 | 8 |
-| 哔哩哔哩、影音与漫画 | 16 |
+| 哔哩哔哩、影音与漫画 | 18 |
 | 网络代理与远程控制 | 14 |
 | 安全、隐私与测试 | 8 |
 | 开发工具与Web | 7 |
 | 自托管、效率与副业 | 3 |
 | 生活、娱乐与杂项 | 10 |
-| 其他待整理 | 2 |
 
 ## 生物信息、基因组与育种（12）
 
@@ -157,7 +155,7 @@
 | [f-droid/fdroidclient](https://github.com/f-droid/fdroidclient) | 应用与商店 | Android应用 | Android 应用或开源应用分发工具。 | 3182 | 活跃/未归档 |
 | [alpha-liu-01/SpeedyNote](https://github.com/alpha-liu-01/SpeedyNote) | 应用与商店 | Android应用 | Android 应用或开源应用分发工具。 | 1687 | 活跃/未归档 |
 
-## 哔哩哔哩、影音与漫画（16）
+## 哔哩哔哩、影音与漫画（18）
 
 | 仓库 | 细分用途 | 标签 | 中文说明 | Stars | 状态 |
 |---|---|---|---|---:|---|
@@ -177,6 +175,8 @@
 | [Hyper-Beast/BiliTV](https://github.com/Hyper-Beast/BiliTV) | B站客户端与模块 | B站、去广告、增强 | B站第三方客户端、去广告或体验增强工具。 | 809 | 活跃/未归档 |
 | [david082321/BiliRoaming-PHP-Server](https://github.com/david082321/BiliRoaming-PHP-Server) | B站客户端与模块 | B站、去广告、增强 | B站第三方客户端、去广告或体验增强工具。 | 274 | 已归档 |
 | [Xposed-Modules-Repo/icu.freedomIntrovert.biliSendCommAntifraud](https://github.com/Xposed-Modules-Repo/icu.freedomIntrovert.biliSendCommAntifraud) | B站客户端与模块 | B站、去广告、增强 | B站第三方客户端、去广告或体验增强工具。 | 42 | 活跃/未归档 |
+| [amitbl/blocktube](https://github.com/amitbl/blocktube) | 视频内容过滤 | YouTube、浏览器扩展、内容过滤 | 屏蔽 YouTube 指定频道、视频或评论的浏览器扩展。 | 1409 | 活跃/未归档 |
+| [Xposed-Modules-Repo/com.chrxw.purenga](https://github.com/Xposed-Modules-Repo/com.chrxw.purenga) | 社区客户端增强 | NGA、Android、去广告 | NGA 玩家论坛客户端去广告 Xposed 模块。 | 0 | 活跃/未归档 |
 
 ## 网络代理与远程控制（14）
 
@@ -245,12 +245,6 @@
 | [zouzhekang/YJYpaper](https://github.com/zouzhekang/YJYpaper) | 资料存档与社会议题 | 资料存档 | 武汉大学杨景媛论文争议资料记录。 | 3644 | 活跃/未归档 |
 | [wangzhiye-tiancai/mysupervisor_save](https://github.com/wangzhiye-tiancai/mysupervisor_save) | 资料存档与社会议题 | 资料存档 | 导师评价相关资源与历史数据存档。 | 2273 | 活跃/未归档 |
 
-## 其他待整理（2）
-
-| 仓库 | 细分用途 | 标签 | 中文说明 | Stars | 状态 |
-|---|---|---|---|---:|---|
-| [amitbl/blocktube](https://github.com/amitbl/blocktube) | 尚未归入明确用途 | 待复核 | 项目原始简介：YouTube™ content blocker | 1409 | 活跃/未归档 |
-| [Xposed-Modules-Repo/com.chrxw.purenga](https://github.com/Xposed-Modules-Repo/com.chrxw.purenga) | 尚未归入明确用途 | 待复核 | 项目原始简介：NGA玩家论坛去广告模块 | 164 | 活跃/未归档 |
 
 ## 使用建议
 
