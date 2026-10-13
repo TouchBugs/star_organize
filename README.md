@@ -1,251 +1,260 @@
-# star_organize
-整理star仓库
+# TouchBugs GitHub Stars 分类知识库
 
-# TouchBugs GitHub Star 中文分类知识库
+> 面向“以后能快速找到仓库”重新整理：以**主类型 → 细分用途 → 多标签**组织，不再仅按语言或模糊关键词分桶。
 
-- 用户：[TouchBugs](https://github.com/TouchBugs)
-- 页面公开 Stars 徽标：148
-- GitHub 公开 API 可访问仓库：146
-- 抓取时间：2026-10-09 12:12 UTC
-- 说明：分类基于仓库名称、简介、主题、语言自动整理，适合作为初版知识库。
+- 收录仓库：146
+- 重整日期：2026-10-13
+- 交互页面：[打开可筛选知识库](./TouchBugs_GitHub_Stars_中文分类知识库.html)
+- 说明：同一仓库选一个主类型便于浏览，同时保留多标签表达交叉用途；“其他待整理”建议后续人工确认。
+
+## 快速导航
+
+- [生物信息、基因组与育种（12）](#生物信息基因组育种)
+- [科研与学术工作流（15）](#科研学术工作流)
+- [大模型、Agent与AI应用（25）](#大模型agentai应用)
+- [深度学习与机器学习（13）](#深度学习机器学习)
+- [深度学习学习资料（13）](#深度学习学习资料)
+- [Android与移动端（8）](#android移动端)
+- [哔哩哔哩、影音与漫画（16）](#哔哩哔哩影音漫画)
+- [网络代理与远程控制（14）](#网络代理远程控制)
+- [安全、隐私与测试（8）](#安全隐私测试)
+- [开发工具与Web（7）](#开发工具web)
+- [自托管、效率与副业（3）](#自托管效率副业)
+- [生活、娱乐与杂项（10）](#生活娱乐杂项)
+- [其他待整理（2）](#其他待整理)
 
 ## 分类统计
 
-- 资料库 / Awesome / 学习路线: 21
-- AI / 大模型与智能体: 20
-- 前端 / Web / UI 工具: 19
-- Android / 移动应用与模块: 18
-- 网络代理与远程控制: 15
-- 深度学习与机器学习: 15
-- 科研写作与学术工具: 11
-- 安全研究与渗透测试: 8
-- 生物信息与农业表型: 7
-- 其他工具与项目: 7
-- 生活娱乐与内容增强: 3
-- Python / 数据与自动化: 2
+| 主类型 | 数量 |
+|---|---:|
+| 生物信息、基因组与育种 | 12 |
+| 科研与学术工作流 | 15 |
+| 大模型、Agent与AI应用 | 25 |
+| 深度学习与机器学习 | 13 |
+| 深度学习学习资料 | 13 |
+| Android与移动端 | 8 |
+| 哔哩哔哩、影音与漫画 | 16 |
+| 网络代理与远程控制 | 14 |
+| 安全、隐私与测试 | 8 |
+| 开发工具与Web | 7 |
+| 自托管、效率与副业 | 3 |
+| 生活、娱乐与杂项 | 10 |
+| 其他待整理 | 2 |
 
-## 高星仓库 Top 15
+## 生物信息、基因组与育种（12）
 
-| 仓库 | Stars | 分类 | 简介 |
-|---|---:|---|---|
-| [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | 552110 | 资料库 / Awesome / 学习路线 | Master programming by recreating your favorite technologies from scratch. |
-| [openclaw/openclaw](https://github.com/openclaw/openclaw) | 391527 | 前端 / Web / UI 工具 | The AI that really does things. Any OS. Any Platform. The lobster way. 🦞  |
-| [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | 324853 | 资料库 / Awesome / 学习路线 | A list of Free Software network services and web applications which can be hosted on your own servers |
-| [ollama/ollama](https://github.com/ollama/ollama) | 182476 | AI / 大模型与智能体 | Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models. |
-| [521xueweihan/HelloGitHub](https://github.com/521xueweihan/HelloGitHub) | 180825 | 资料库 / Awesome / 学习路线 | :octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub. |
-| [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | 158426 | AI / 大模型与智能体 | A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables. |
-| [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | 150014 | 网络代理与远程控制 | A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience |
-| [krahets/hello-algo](https://github.com/krahets/hello-algo) | 130483 | 资料库 / Awesome / 学习路线 | 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 等代码实现 |
-| [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | 121997 | 安全研究与渗透测试 | A collection of various awesome lists for hackers, pentesters and security researchers |
-| [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) | 107270 | AI / 大模型与智能体 | An open-source AI agent that brings the power of Gemini directly into your terminal. |
-| [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) | 102589 | 资料库 / Awesome / 学习路线 | Programmer's guide about how to cook at home. |
-| [karpathy/autoresearch](https://github.com/karpathy/autoresearch) | 97577 | AI / 大模型与智能体 | AI agents running research on single-GPU nanochat training automatically |
-| [DopplerHQ/awesome-interview-questions](https://github.com/DopplerHQ/awesome-interview-questions) | 84861 | 资料库 / Awesome / 学习路线 | :octocat: A curated awesome list of lists of interview questions. Feel free to contribute! :mortar_board:  |
-| [d2l-ai/d2l-zh](https://github.com/d2l-ai/d2l-zh) | 81491 | 资料库 / Awesome / 学习路线 | 《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被70多个国家的500多所大学用于教学。 |
-| [hiyouga/LlamaFactory](https://github.com/hiyouga/LlamaFactory) | 75380 | AI / 大模型与智能体 | Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024) |
+| 仓库 | 细分用途 | 标签 | 中文说明 | Stars | 状态 |
+|---|---|---|---|---:|---|
+| [calico/basenji](https://github.com/calico/basenji) | 调控基因组学 | DNA序列、调控预测、可解释性 | 用深度卷积网络从 DNA 序列预测调控活性。 | 475 | 活跃/未归档 |
+| [uci-cbcl/DanQ](https://github.com/uci-cbcl/DanQ) | 调控基因组学 | DNA序列、调控预测、可解释性 | 结合卷积与循环网络预测 DNA 序列功能。 | 164 | 活跃/未归档 |
+| [jzhoulab/puffin](https://github.com/jzhoulab/puffin) | 调控基因组学 | DNA序列、调控预测、可解释性 | 用于转录起始预测的可解释深度学习序列模型。 | 109 | 活跃/未归档 |
+| [p-koo/learning_sequence_motifs](https://github.com/p-koo/learning_sequence_motifs) | 调控基因组学 | DNA序列、调控预测、可解释性 | 用卷积神经网络学习基因组序列 motif 表征。 | 34 | 活跃/未归档 |
+| [jzhoulab/puffin_manuscript](https://github.com/jzhoulab/puffin_manuscript) | 调控基因组学 | DNA序列、调控预测、可解释性 | Puffin 调控基因组模型论文配套分析代码。 | 19 | 活跃/未归档 |
+| [Pranesh6767/Plant-Disease-Detection-Using-Digital-Image-Processing](https://github.com/Pranesh6767/Plant-Disease-Detection-Using-Digital-Image-Processing) | 农业计算机视觉 | 作物、表型、计算机视觉 | 基于图像分割、特征提取与统计模型检测植物病害。 | 29 | 活跃/未归档 |
+| [IndigoFloyd/SoybeanWebsite](https://github.com/IndigoFloyd/SoybeanWebsite) | 农业计算机视觉 | 作物、表型、计算机视觉 | 上传 VCF 后预测大豆表型的 Web 应用。 | 18 | 活跃/未归档 |
+| [priyammaz/RootNoduleDetection](https://github.com/priyammaz/RootNoduleDetection) | 农业计算机视觉 | 作物、表型、计算机视觉 | 植物根瘤检测项目。 | 1 | 活跃/未归档 |
+| [bioperl/bioperl-live](https://github.com/bioperl/bioperl-live) | 生物信息工具 | 生物信息、序列分析 | 项目原始简介：Core BioPerl 1.x code | 323 | 活跃/未归档 |
+| [IndigoFloyd/SoyDNGPNext](https://github.com/IndigoFloyd/SoyDNGPNext) | G×E与基因组选择 | G×E、基因组选择、育种 | 面向大豆基因组预测的深度学习生物信息工具包。 | 25 | 活跃/未归档 |
+| [Deep-Breeding/GEFormer](https://github.com/Deep-Breeding/GEFormer) | G×E与基因组选择 | G×E、基因组选择、育种 | 联合基因型与环境信息预测作物表型的深度学习 G×E 模型。 | 18 | 活跃/未归档 |
+| [dupuquan/maize-f1](https://github.com/dupuquan/maize-f1) | G×E与基因组选择 | G×E、基因组选择、育种 | 玉米 F1 相关研究代码与 Notebook。 | 1 | 活跃/未归档 |
 
-## 资料库 / Awesome / 学习路线（21）
+## 科研与学术工作流（15）
 
-| 仓库 | 语言 | Stars | 中文用途 | 简介 |
-|---|---|---:|---|---|
-| [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | Markdown | 552110 | 可作为学习资料、路线图、清单或知识索引。 | Master programming by recreating your favorite technologies from scratch. |
-| [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) |  | 324853 | 可作为学习资料、路线图、清单或知识索引。 | A list of Free Software network services and web applications which can be hosted on your own servers |
-| [521xueweihan/HelloGitHub](https://github.com/521xueweihan/HelloGitHub) | Python | 180825 | 可作为学习资料、路线图、清单或知识索引。 | :octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub. |
-| [krahets/hello-algo](https://github.com/krahets/hello-algo) | Java | 130483 | 可作为学习资料、路线图、清单或知识索引。 | 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 等代码实现 |
-| [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) |  | 102589 | 可作为学习资料、路线图、清单或知识索引。 | Programmer's guide about how to cook at home. |
-| [DopplerHQ/awesome-interview-questions](https://github.com/DopplerHQ/awesome-interview-questions) |  | 84861 | 可作为学习资料、路线图、清单或知识索引。 | :octocat: A curated awesome list of lists of interview questions. Feel free to contribute! :mortar_board:  |
-| [d2l-ai/d2l-zh](https://github.com/d2l-ai/d2l-zh) | Python | 81491 | 可作为学习资料、路线图、清单或知识索引。 | 《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被70多个国家的500多所大学用于教学。 |
-| [scutan90/DeepLearning-500-questions](https://github.com/scutan90/DeepLearning-500-questions) | JavaScript | 57652 | 可作为学习资料、路线图、清单或知识索引。 | 深度学习500问，以问答形式对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述，以帮助自己及有需要的读者。 全书分为18个章节，50余万字。由于水平有限，书中不妥之处恳请广大读者批评指正。   未完待续............ 如有意合作，联系scutjy2015@163.com                     版权所有，违权必究       Tan 2018.06 |
-| [exacity/deeplearningbook-chinese](https://github.com/exacity/deeplearningbook-chinese) | TeX | 37787 | 可作为学习资料、路线图、清单或知识索引。 | Deep Learning Book Chinese Translation |
-| [nndl/nndl](https://github.com/nndl/nndl) |  | 19308 | 可作为学习资料、路线图、清单或知识索引。 | 邱锡鹏《神经网络与深度学习》第二版与通识版：电子书、章节目录、学习资源与勘误。 |
-| [plotly/plotly.py](https://github.com/plotly/plotly.py) | Python | 18826 | 可作为学习资料、路线图、清单或知识索引。 | The interactive graphing library for Python :sparkles: |
-| [dair-ai/ml-visuals](https://github.com/dair-ai/ml-visuals) |  | 17416 | 可作为学习资料、路线图、清单或知识索引。 | 🎨 ML Visuals contains figures and templates which you can reuse and customize to improve your scientific writing. |
-| [google-deepmind/deepmind-research](https://github.com/google-deepmind/deepmind-research) | Jupyter Notebook | 15224 | 可作为学习资料、路线图、清单或知识索引。 | This repository contains implementations and illustrative code to accompany DeepMind publications |
-| [MorvanZhou/tutorials](https://github.com/MorvanZhou/tutorials) | Python | 13056 | 可作为学习资料、路线图、清单或知识索引。 | 机器学习相关教程 |
-| [TheLastBen/fast-stable-diffusion](https://github.com/TheLastBen/fast-stable-diffusion) | Python | 7911 | 可作为学习资料、路线图、清单或知识索引。 | fast-stable-diffusion + DreamBooth |
-| [easychen/stack-roadmap](https://github.com/easychen/stack-roadmap) | PHP | 4586 | 可作为学习资料、路线图、清单或知识索引。 | 方糖全栈路线图2023，为「从螺丝钉到一人企业」补全技能栈 |
-| [nndl/nndl-practice](https://github.com/nndl/nndl-practice) | Jupyter Notebook | 3525 | 可作为学习资料、路线图、清单或知识索引。 | 《神经网络与深度学习：案例与实践》第二版：10 章 PyTorch 实践、Notebook、测试与电子书。 |
-| [rohitrango/automatic-watermark-detection](https://github.com/rohitrango/automatic-watermark-detection) | Jupyter Notebook | 1269 | 可作为学习资料、路线图、清单或知识索引。 | Project for Digital Image Processing |
-| [IndigoFloyd/SoyDNGPNext](https://github.com/IndigoFloyd/SoyDNGPNext) | Python | 25 | 可作为学习资料、路线图、清单或知识索引。 | A deeplearning driving bioinformatic toolkit. |
-| [jzhoulab/puffin_manuscript](https://github.com/jzhoulab/puffin_manuscript) | Jupyter Notebook | 19 | 可作为学习资料、路线图、清单或知识索引。 |  |
-| [dupuquan/maize-f1](https://github.com/dupuquan/maize-f1) | Jupyter Notebook | 1 | 可作为学习资料、路线图、清单或知识索引。 | maize f1 |
+| 仓库 | 细分用途 | 标签 | 中文说明 | Stars | 状态 |
+|---|---|---|---|---:|---|
+| [plotly/plotly.py](https://github.com/plotly/plotly.py) | 科研展示与绘图 | 科研绘图、汇报、可视化 | Python 交互式科学绘图库。 | 18826 | 活跃/未归档 |
+| [dair-ai/ml-visuals](https://github.com/dair-ai/ml-visuals) | 科研展示与绘图 | 科研绘图、汇报、可视化 | 用于科研绘图、结果可视化或学术汇报制作。 | 17416 | 活跃/未归档 |
+| [BIT-DataLab/Edit-Banana](https://github.com/BIT-DataLab/Edit-Banana) | 科研展示与绘图 | 科研绘图、汇报、可视化 | 用于科研绘图、结果可视化或学术汇报制作。 | 5498 | 活跃/未归档 |
+| [AI272/speaker](https://github.com/AI272/speaker) | 科研展示与绘图 | 科研绘图、汇报、可视化 | 用于科研绘图、结果可视化或学术汇报制作。 | 458 | 活跃/未归档 |
+| [google-deepmind/deepmind-research](https://github.com/google-deepmind/deepmind-research) | 论文与研究复现 | 论文、复现、研究代码 | DeepMind 论文的官方实现与示例代码集合。 | 15224 | 活跃/未归档 |
+| [sbfnk/preprint-match](https://github.com/sbfnk/preprint-match) | 论文与研究复现 | 论文、复现、研究代码 | 论文配套代码或研究复现资源。 | 3 | 活跃/未归档 |
+| [Imbad0202/academic-research-skills](https://github.com/Imbad0202/academic-research-skills) | AI科研工作流 | 论文写作、文献综述、Agent Skill | 用于文献调研、论文写作、审稿或科研流程自动化。 | 51036 | 活跃/未归档 |
+| [Yuan1z0825/nature-skills](https://github.com/Yuan1z0825/nature-skills) | AI科研工作流 | 论文写作、文献综述、Agent Skill | 用于文献调研、论文写作、审稿或科研流程自动化。 | 46826 | 活跃/未归档 |
+| [Master-cai/Research-Paper-Writing-Skills](https://github.com/Master-cai/Research-Paper-Writing-Skills) | AI科研工作流 | 论文写作、文献综述、Agent Skill | 用于文献调研、论文写作、审稿或科研流程自动化。 | 7351 | 活跃/未归档 |
+| [WUBING2023/PaperSpine](https://github.com/WUBING2023/PaperSpine) | AI科研工作流 | 论文写作、文献综述、Agent Skill | 用于文献调研、论文写作、审稿或科研流程自动化。 | 5838 | 活跃/未归档 |
+| [bighuang624/AI-research-tools](https://github.com/bighuang624/AI-research-tools) | AI科研工作流 | 论文写作、文献综述、Agent Skill | 用于文献调研、论文写作、审稿或科研流程自动化。 | 3469 | 活跃/未归档 |
+| [Boom5426/Nature-Paper-Skills](https://github.com/Boom5426/Nature-Paper-Skills) | AI科研工作流 | 论文写作、文献综述、Agent Skill | 用于文献调研、论文写作、审稿或科研流程自动化。 | 561 | 活跃/未归档 |
+| [LMDHQ-0420/ResearchPilot-Skills](https://github.com/LMDHQ-0420/ResearchPilot-Skills) | AI科研工作流 | 论文写作、文献综述、Agent Skill | 用于文献调研、论文写作、审稿或科研流程自动化。 | 307 | 活跃/未归档 |
+| [yunshenwuchuxun/latex-paper-skills](https://github.com/yunshenwuchuxun/latex-paper-skills) | AI科研工作流 | 论文写作、文献综述、Agent Skill | 用于文献调研、论文写作、审稿或科研流程自动化。 | 266 | 活跃/未归档 |
+| [SNL-UCSB/literature-survey-skill](https://github.com/SNL-UCSB/literature-survey-skill) | AI科研工作流 | 论文写作、文献综述、Agent Skill | 用于文献调研、论文写作、审稿或科研流程自动化。 | 106 | 活跃/未归档 |
 
-## AI / 大模型与智能体（20）
+## 大模型、Agent与AI应用（25）
 
-| 仓库 | 语言 | Stars | 中文用途 | 简介 |
-|---|---|---:|---|---|
-| [ollama/ollama](https://github.com/ollama/ollama) | Go | 182476 | 用于大模型、智能体、提示词、模型路由或 AI 应用构建。 | Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models. |
-| [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | Shell | 158426 | 用于大模型、智能体、提示词、模型路由或 AI 应用构建。 | A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables. |
-| [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) | TypeScript | 107270 | 用于大模型、智能体、提示词、模型路由或 AI 应用构建。 | An open-source AI agent that brings the power of Gemini directly into your terminal. |
-| [karpathy/autoresearch](https://github.com/karpathy/autoresearch) | Python | 97577 | 用于大模型、智能体、提示词、模型路由或 AI 应用构建。 | AI agents running research on single-GPU nanochat training automatically |
-| [hiyouga/LlamaFactory](https://github.com/hiyouga/LlamaFactory) | Python | 75380 | 用于大模型、智能体、提示词、模型路由或 AI 应用构建。 | Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024) |
-| [Yuan1z0825/nature-skills](https://github.com/Yuan1z0825/nature-skills) | Python | 46826 | 用于大模型、智能体、提示词、模型路由或 AI 应用构建。 | 符合nature论文学术表达和科研绘图的Skill |
-| [datawhalechina/happy-llm](https://github.com/datawhalechina/happy-llm) | Jupyter Notebook | 34253 | 用于大模型、智能体、提示词、模型路由或 AI 应用构建。 | 📚 从零开始构建大模型 |
-| [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) | Python | 32489 | 用于大模型、智能体、提示词、模型路由或 AI 应用构建。 | CLI tool for configuring and monitoring Claude Code |
-| [decolua/9router](https://github.com/decolua/9router) | JavaScript | 30504 | 用于大模型、智能体、提示词、模型路由或 AI 应用构建。 | Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits. |
-| [zai-org/Open-AutoGLM](https://github.com/zai-org/Open-AutoGLM) | Python | 26367 | 用于大模型、智能体、提示词、模型路由或 AI 应用构建。 | An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone |
-| [tanweai/pua](https://github.com/tanweai/pua) | Python | 19707 | 用于大模型、智能体、提示词、模型路由或 AI 应用构建。 | 你是一个曾经被寄予厚望的 P8 级工程师。Anthropic 当初给你定级的时候，对你的期望是很高的。  一个agent使用的高能动性的skill。  Your AI has been placed on a PIP. 30 days to show improvement. |
-| [lss233/kirara-ai](https://github.com/lss233/kirara-ai) | Python | 19069 | 用于大模型、智能体、提示词、模型路由或 AI 应用构建。 | 🤖 可 DIY 的 多模态 AI 聊天机器人 / 🚀 快速接入 微信、 QQ、Telegram、等聊天平台 / 🦈支持DeepSeek、Grok、Claude、Ollama、Gemini、OpenAI / 工作流系统、网页搜索、AI画图、人设调教、虚拟女仆、语音对话 /  |
-| [Usagi-org/ai-goofish-monitor](https://github.com/Usagi-org/ai-goofish-monitor) | Python | 14723 | 用于大模型、智能体、提示词、模型路由或 AI 应用构建。 | 基于 Playwright 和AI实现的闲鱼多任务实时/定时监控与智能分析系统，配备了功能完善的后台管理UI。帮助用户从闲鱼海量商品中，找到心仪产品。 |
-| [HKUDS/ViMax](https://github.com/HKUDS/ViMax) | Python | 12592 | 用于大模型、智能体、提示词、模型路由或 AI 应用构建。 | "ViMax: Agentic Video Generation (Director, Screenwriter, Producer, and Video Generator All-in-One)" |
-| [Master-cai/Research-Paper-Writing-Skills](https://github.com/Master-cai/Research-Paper-Writing-Skills) |  | 7351 | 用于大模型、智能体、提示词、模型路由或 AI 应用构建。 | Skill package for ML/CV/NLP paper writing, curated and adapted from Prof. Peng Sida's open notes for Codex, Claude Code, and Gemini. |
-| [nndl/llm-beginner](https://github.com/nndl/llm-beginner) | Python | 6797 | 用于大模型、智能体、提示词、模型路由或 AI 应用构建。 | 《大模型与智能体》电子书与 6 个编程任务：Transformer、mini-GPT、SFT/DPO、RAG、工具调用与编程智能体。 |
-| [BIT-DataLab/Edit-Banana](https://github.com/BIT-DataLab/Edit-Banana) | Python | 5498 | 用于大模型、智能体、提示词、模型路由或 AI 应用构建。 | Edit Banana: A framework for converting statistical formats into editable. |
-| [hexiecs/talk-normal](https://github.com/hexiecs/talk-normal) | Shell | 1858 | 用于大模型、智能体、提示词、模型路由或 AI 应用构建。 | Make any LLM talk like a normal person. A system prompt that removes AI slop. |
-| [HKUDS/Auto-Deep-Research](https://github.com/HKUDS/Auto-Deep-Research) | Python | 1749 | 用于大模型、智能体、提示词、模型路由或 AI 应用构建。 | "Your Fully-Automated Personal AI Assistant" |
-| [tinqiao-oss/engramory](https://github.com/tinqiao-oss/engramory) | Python | 192 | 用于大模型、智能体、提示词、模型路由或 AI 应用构建。 | A portable memory protocol for AI agents — load it as standing rules; a curation discipline + reference spec + optional cap hook. |
+| 仓库 | 细分用途 | 标签 | 中文说明 | Stars | 状态 |
+|---|---|---|---|---:|---|
+| [ollama/ollama](https://github.com/ollama/ollama) | 本地模型与推理 | 模型推理、多模态 | 用于本地部署、推理或多模态模型应用。 | 182476 | 活跃/未归档 |
+| [coqui-ai/TTS](https://github.com/coqui-ai/TTS) | 本地模型与推理 | 模型推理、多模态 | 用于本地部署、推理或多模态模型应用。 | 46111 | 活跃/未归档 |
+| [OpenBMB/VoxCPM](https://github.com/OpenBMB/VoxCPM) | 本地模型与推理 | 模型推理、多模态 | 用于本地部署、推理或多模态模型应用。 | 38433 | 活跃/未归档 |
+| [OFA-Sys/Chinese-CLIP](https://github.com/OFA-Sys/Chinese-CLIP) | 本地模型与推理 | 模型推理、多模态 | 用于本地部署、推理或多模态模型应用。 | 6014 | 活跃/未归档 |
+| [openclaw/openclaw](https://github.com/openclaw/openclaw) | 编码Agent与工具 | Agent、AI编程 | 用于 AI 编程、智能体编排或模型工作流增强。 | 391527 | 活跃/未归档 |
+| [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | 编码Agent与工具 | Agent、AI编程 | 用于 AI 编程、智能体编排或模型工作流增强。 | 158426 | 活跃/未归档 |
+| [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) | 编码Agent与工具 | Agent、AI编程 | 用于 AI 编程、智能体编排或模型工作流增强。 | 107270 | 活跃/未归档 |
+| [karpathy/autoresearch](https://github.com/karpathy/autoresearch) | 编码Agent与工具 | Agent、AI编程 | 用于 AI 编程、智能体编排或模型工作流增强。 | 97577 | 活跃/未归档 |
+| [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) | 编码Agent与工具 | Agent、AI编程 | 用于 AI 编程、智能体编排或模型工作流增强。 | 32489 | 活跃/未归档 |
+| [decolua/9router](https://github.com/decolua/9router) | 编码Agent与工具 | Agent、AI编程 | 用于 AI 编程、智能体编排或模型工作流增强。 | 30504 | 活跃/未归档 |
+| [tanweai/pua](https://github.com/tanweai/pua) | 编码Agent与工具 | Agent、AI编程 | 用于 AI 编程、智能体编排或模型工作流增强。 | 19707 | 活跃/未归档 |
+| [hexiecs/talk-normal](https://github.com/hexiecs/talk-normal) | 编码Agent与工具 | Agent、AI编程 | 用于 AI 编程、智能体编排或模型工作流增强。 | 1858 | 活跃/未归档 |
+| [HKUDS/Auto-Deep-Research](https://github.com/HKUDS/Auto-Deep-Research) | 编码Agent与工具 | Agent、AI编程 | 用于 AI 编程、智能体编排或模型工作流增强。 | 1749 | 活跃/未归档 |
+| [tinqiao-oss/engramory](https://github.com/tinqiao-oss/engramory) | 编码Agent与工具 | Agent、AI编程 | 用于 AI 编程、智能体编排或模型工作流增强。 | 192 | 活跃/未归档 |
+| [hiyouga/LlamaFactory](https://github.com/hiyouga/LlamaFactory) | 模型微调与训练 | LLM、训练、微调 | 用于大语言模型训练、微调或学习其实现。 | 75380 | 活跃/未归档 |
+| [datawhalechina/happy-llm](https://github.com/datawhalechina/happy-llm) | 模型微调与训练 | LLM、训练、微调 | 用于大语言模型训练、微调或学习其实现。 | 34253 | 活跃/未归档 |
+| [nndl/llm-beginner](https://github.com/nndl/llm-beginner) | 模型微调与训练 | LLM、训练、微调 | 用于大语言模型训练、微调或学习其实现。 | 6797 | 活跃/未归档 |
+| [bilibili/Index-1.9B](https://github.com/bilibili/Index-1.9B) | 模型微调与训练 | LLM、训练、微调 | B站开源的轻量级多语言大模型。 | 1033 | 活跃/未归档 |
+| [OpenMOSS/DiRL](https://github.com/OpenMOSS/DiRL) | 模型微调与训练 | LLM、训练、微调 | 用于大语言模型训练、微调或学习其实现。 | 164 | 活跃/未归档 |
+| [zai-org/Open-AutoGLM](https://github.com/zai-org/Open-AutoGLM) | AI自动化应用 | AI应用、自动化 | 将 AI 用于具体业务或自动化场景。 | 26367 | 活跃/未归档 |
+| [lss233/kirara-ai](https://github.com/lss233/kirara-ai) | AI自动化应用 | AI应用、自动化 | 将 AI 用于具体业务或自动化场景。 | 19069 | 活跃/未归档 |
+| [Usagi-org/ai-goofish-monitor](https://github.com/Usagi-org/ai-goofish-monitor) | AI自动化应用 | AI应用、自动化 | 将 AI 用于具体业务或自动化场景。 | 14723 | 活跃/未归档 |
+| [HKUDS/ViMax](https://github.com/HKUDS/ViMax) | AI自动化应用 | AI应用、自动化 | 将 AI 用于具体业务或自动化场景。 | 12592 | 活跃/未归档 |
+| [lfzk550/fanzha-ai-proxy](https://github.com/lfzk550/fanzha-ai-proxy) | AI自动化应用 | AI应用、自动化 | 将 AI 用于具体业务或自动化场景。 | 601 | 活跃/未归档 |
+| [LeaveC/xianyubot](https://github.com/LeaveC/xianyubot) | AI自动化应用 | AI应用、自动化 | 将 AI 用于具体业务或自动化场景。 | 79 | 活跃/未归档 |
 
-## 前端 / Web / UI 工具（19）
+## 深度学习与机器学习（13）
 
-| 仓库 | 语言 | Stars | 中文用途 | 简介 |
-|---|---|---:|---|---|
-| [openclaw/openclaw](https://github.com/openclaw/openclaw) | TypeScript | 391527 | Web、前端、浏览器扩展、UI 组件或站点构建相关。 | The AI that really does things. Any OS. Any Platform. The lobster way. 🦞  |
-| [webadderallorg/Recordly](https://github.com/webadderallorg/Recordly) | TypeScript | 32915 | Web、前端、浏览器扩展、UI 组件或站点构建相关。 | Create polished demo videos without editing skills. Mac/Windows/Linux |
-| [layui/layui](https://github.com/layui/layui) | JavaScript | 30580 | Web、前端、浏览器扩展、UI 组件或站点构建相关。 | 一套遵循浏览器原生态开发模式的 Web UI 组件库。 |
-| [easychen/opc-methodology](https://github.com/easychen/opc-methodology) | PHP | 16886 | Web、前端、浏览器扩展、UI 组件或站点构建相关。 | 《一人企业方法论》第二版，也适合做其他副业（比如自媒体、电商、数字商品）的非技术人群。 |
-| [keiyoushi/extensions](https://github.com/keiyoushi/extensions) | HTML | 15158 | Web、前端、浏览器扩展、UI 组件或站点构建相关。 | Extension repository for Mihon and variants |
-| [wanglin2/mind-map](https://github.com/wanglin2/mind-map) | JavaScript | 12802 | Web、前端、浏览器扩展、UI 组件或站点构建相关。 | SimpleMindMap（思绪思维导图）：一个强大的思维导图。A powerful mind map. |
-| [AIsouler/GKD_subscription](https://github.com/AIsouler/GKD_subscription) | TypeScript | 12031 | Web、前端、浏览器扩展、UI 组件或站点构建相关。 | GKD 第三方订阅规则 |
-| [viarotel-org/escrcpy](https://github.com/viarotel-org/escrcpy) | JavaScript | 12008 | Web、前端、浏览器扩展、UI 组件或站点构建相关。 | 📱 Display and control your Android device graphically with scrcpy. |
-| [galaxy-s10/billd-desk](https://github.com/galaxy-s10/billd-desk) | TypeScript | 8375 | Web、前端、浏览器扩展、UI 组件或站点构建相关。 | 基于Vue3 + WebRTC + Nodejs + Flutter搭建的远程桌面控制、游戏串流 |
-| [hanydd/BilibiliSponsorBlock](https://github.com/hanydd/BilibiliSponsorBlock) | TypeScript | 6201 | Web、前端、浏览器扩展、UI 组件或站点构建相关。 | 一款跳过小电视视频中恰饭片段的浏览器插件，移植自 SponsorBlock。A browser extension to skip sponsored segments in videos, ported from the SponsorBlock |
-| [Lin-arm/GKD_subscription](https://github.com/Lin-arm/GKD_subscription) | TypeScript | 5784 | Web、前端、浏览器扩展、UI 组件或站点构建相关。 | 用于安卓 GKD 的第三方订阅规则 (👻Fork版) |
-| [xmcp/pakku.js](https://github.com/xmcp/pakku.js) | TypeScript | 2690 | Web、前端、浏览器扩展、UI 组件或站点构建相关。 | 拯救B站的弹幕体验！ |
-| [wangzhiye-tiancai/mysupervisor_save](https://github.com/wangzhiye-tiancai/mysupervisor_save) | HTML | 2273 | Web、前端、浏览器扩展、UI 组件或站点构建相关。 | 收集“导师评价”相关资源，及原“导师评价网”存档数据  |
-| [amitbl/blocktube](https://github.com/amitbl/blocktube) | JavaScript | 1409 | Web、前端、浏览器扩展、UI 组件或站点构建相关。 | YouTube™ content blocker |
-| [chao325/Evil.js](https://github.com/chao325/Evil.js) | JavaScript | 334 | Web、前端、浏览器扩展、UI 组件或站点构建相关。 | 专注技术的库 |
-| [geoisam/FuckScripts](https://github.com/geoisam/FuckScripts) | JavaScript | 282 | Web、前端、浏览器扩展、UI 组件或站点构建相关。 | 🌈USE AT YOUR OWN RISK |
-| [Shiroki-Y/College-Student-Missing](https://github.com/Shiroki-Y/College-Student-Missing) | HTML | 44 | Web、前端、浏览器扩展、UI 组件或站点构建相关。 | 大学生登山失踪事件 |
-| [IndigoFloyd/SoybeanWebsite](https://github.com/IndigoFloyd/SoybeanWebsite) | JavaScript | 18 | Web、前端、浏览器扩展、UI 组件或站点构建相关。 | A website to predict phenotypes of soybean by uploading .vcf files. |
-| [TouchBugs/web](https://github.com/TouchBugs/web) | HTML | 1 | Web、前端、浏览器扩展、UI 组件或站点构建相关。 | A game. click the banana makes the number bigger |
+| 仓库 | 细分用途 | 标签 | 中文说明 | Stars | 状态 |
+|---|---|---|---|---:|---|
+| [LYiHub/QWOP_rl_training_public](https://github.com/LYiHub/QWOP_rl_training_public) | 强化学习 | 强化学习 | 强化学习训练与实验框架。 | 227 | 活跃/未归档 |
+| [TheLastBen/fast-stable-diffusion](https://github.com/TheLastBen/fast-stable-diffusion) | 生成模型 | 扩散模型、图像生成 | 用于扩散模型或生成式视觉任务。 | 7911 | 活跃/未归档 |
+| [CompVis/zigma](https://github.com/CompVis/zigma) | 生成模型 | 扩散模型、图像生成 | 用于扩散模型或生成式视觉任务。 | 351 | 活跃/未归档 |
+| [Robbyant/lingbot-map](https://github.com/Robbyant/lingbot-map) | 视觉模型与检测 | 计算机视觉、检测 | 用于图像识别、目标检测、标注或三维视觉。 | 17533 | 活跃/未归档 |
+| [CVHub520/X-AnyLabeling](https://github.com/CVHub520/X-AnyLabeling) | 视觉模型与检测 | 计算机视觉、检测 | 用于图像识别、目标检测、标注或三维视觉。 | 10635 | 活跃/未归档 |
+| [bubbliiiing/faster-rcnn-pytorch](https://github.com/bubbliiiing/faster-rcnn-pytorch) | 视觉模型与检测 | 计算机视觉、检测 | 用于图像识别、目标检测、标注或三维视觉。 | 1833 | 活跃/未归档 |
+| [iMoonLab/yolov13](https://github.com/iMoonLab/yolov13) | 视觉模型与检测 | 计算机视觉、检测 | 用于图像识别、目标检测、标注或三维视觉。 | 1708 | 活跃/未归档 |
+| [rohitrango/automatic-watermark-detection](https://github.com/rohitrango/automatic-watermark-detection) | 视觉模型与检测 | 计算机视觉、检测 | 用于图像识别、目标检测、标注或三维视觉。 | 1269 | 活跃/未归档 |
+| [bubbliiiing/yolov7-pytorch](https://github.com/bubbliiiing/yolov7-pytorch) | 视觉模型与检测 | 计算机视觉、检测 | 用于图像识别、目标检测、标注或三维视觉。 | 906 | 活跃/未归档 |
+| [google-research/tuning_playbook](https://github.com/google-research/tuning_playbook) | 训练工程与框架 | PyTorch、训练工程 | 用于深度学习训练、调参、分布式运行或工程化。 | 30356 | 活跃/未归档 |
+| [huggingface/accelerate](https://github.com/huggingface/accelerate) | 训练工程与框架 | PyTorch、训练工程 | 用于深度学习训练、调参、分布式运行或工程化。 | 9911 | 活跃/未归档 |
+| [PaddlePaddle/PaddleX](https://github.com/PaddlePaddle/PaddleX) | 训练工程与框架 | PyTorch、训练工程 | 用于深度学习训练、调参、分布式运行或工程化。 | 6269 | 活跃/未归档 |
+| [ZhugeKongan/torch-template-for-deep-learning](https://github.com/ZhugeKongan/torch-template-for-deep-learning) | 训练工程与框架 | PyTorch、训练工程 | 用于深度学习训练、调参、分布式运行或工程化。 | 1269 | 活跃/未归档 |
 
-## Android / 移动应用与模块（18）
+## 深度学习学习资料（13）
 
-| 仓库 | 语言 | Stars | 中文用途 | 简介 |
-|---|---|---:|---|---|
-| [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk) | Kotlin | 63167 | 面向 Android 客户端、模块、系统工具或移动端增强。 | The Magic Mask for Android |
-| [the1812/Bilibili-Evolved](https://github.com/the1812/Bilibili-Evolved) | TypeScript | 30719 | 面向 Android 客户端、模块、系统工具或移动端增强。 | 强大的哔哩哔哩增强脚本 |
-| [mihonapp/mihon](https://github.com/mihonapp/mihon) | Kotlin | 24146 | 面向 Android 客户端、模块、系统工具或移动端增强。 | Free and open source manga reader for Android |
-| [MustardChef/WSABuilds](https://github.com/MustardChef/WSABuilds) | Python | 18662 | 面向 Android 客户端、模块、系统工具或移动端增强。 | Run Windows Subsystem For Android on your Windows 10 and Windows 11 PC using prebuilt binaries with Google Play Store (MindTheGapps) and/or Magisk or KernelSU (root solutions) built in.  |
-| [guozhigq/pilipala](https://github.com/guozhigq/pilipala) | Dart | 13809 | 面向 Android 客户端、模块、系统工具或移动端增强。 | PiliPala 是使用Flutter开发的BiliBili第三方客户端，感谢使用。 |
-| [yujincheng08/BiliRoaming](https://github.com/yujincheng08/BiliRoaming) | Kotlin | 11546 | 面向 Android 客户端、模块、系统工具或移动端增强。 | 哔哩漫游，解除B站客户端番剧区域限制的Xposed模块，并且提供其他小功能。An Xposed module that unblocks bangumi area limit of BILIBILI with miscellaneous features. |
-| [Ackites/Nrfr](https://github.com/Ackites/Nrfr) | Kotlin | 9118 | 面向 Android 客户端、模块、系统工具或移动端增强。 | 🌍 免 Root 的 SIM 卡国家码修改工具 / 解决国际漫游时的兼容性问题，帮助使用海外 SIM 卡获得更好的本地化体验，解锁运营商限制，突破区域限制 |
-| [simondankelmann/Bluetooth-LE-Spam](https://github.com/simondankelmann/Bluetooth-LE-Spam) | Kotlin | 4947 | 面向 Android 客户端、模块、系统工具或移动端增强。 |  |
-| [jay3-yy/BiliPai](https://github.com/jay3-yy/BiliPai) | Kotlin | 4792 | 面向 Android 客户端、模块、系统工具或移动端增强。 | 原生、纯净、可扩展 —— 重新定义你的 B 站体验 |
-| [fumiama/copymanga](https://github.com/fumiama/copymanga) | Kotlin | 4339 | 面向 Android 客户端、模块、系统工具或移动端增强。 | 拷贝漫画的第三方APP，仅提供基础功能，更多丰富功能请移步官方版本 |
-| [Cateners/tiny_container](https://github.com/Cateners/tiny_container) | Kotlin | 4257 | 面向 Android 客户端、模块、系统工具或移动端增强。 | Click-to-run debian 13 with desktop environment on android! |
-| [BiliRoamingX/BiliRoamingX](https://github.com/BiliRoamingX/BiliRoamingX) | Kotlin | 3836 | 面向 Android 客户端、模块、系统工具或移动端增强。 | BiliRoamingX integrations and patches powered by ReVanced. |
-| [f-droid/fdroidclient](https://github.com/f-droid/fdroidclient) | Kotlin | 3182 | 面向 Android 客户端、模块、系统工具或移动端增强。 | Android client application. |
-| [shatyuka/Zhiliao](https://github.com/shatyuka/Zhiliao) | Java | 2824 | 面向 Android 客户端、模块、系统工具或移动端增强。 | 知乎去广告Xposed模块 |
-| [bilibili/Index-1.9B](https://github.com/bilibili/Index-1.9B) | Python | 1033 | 面向 Android 客户端、模块、系统工具或移动端增强。 | A lightweight multilingual LLM |
-| [Xposed-Modules-Repo/com.chrxw.purenga](https://github.com/Xposed-Modules-Repo/com.chrxw.purenga) |  | 164 | 面向 Android 客户端、模块、系统工具或移动端增强。 | NGA玩家论坛去广告模块 |
-| [8Mi-Tech/LSPatch-ApkFactory](https://github.com/8Mi-Tech/LSPatch-ApkFactory) |  | 123 | 面向 Android 客户端、模块、系统工具或移动端增强。 | 一个基于LSPatch的打包工具，自动为常见应用打LSPatch补丁的仓库，包括各类分支(详见readme) |
-| [Xposed-Modules-Repo/icu.freedomIntrovert.biliSendCommAntifraud](https://github.com/Xposed-Modules-Repo/icu.freedomIntrovert.biliSendCommAntifraud) |  | 42 | 面向 Android 客户端、模块、系统工具或移动端增强。 | 哔哩发评反诈 |
+| 仓库 | 细分用途 | 标签 | 中文说明 | Stars | 状态 |
+|---|---|---|---|---:|---|
+| [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | 课程、教材与教程 | 教程、教材 | 适合系统学习算法、机器学习或深度学习。 | 552110 | 活跃/未归档 |
+| [krahets/hello-algo](https://github.com/krahets/hello-algo) | 课程、教材与教程 | 教程、教材 | 适合系统学习算法、机器学习或深度学习。 | 130483 | 活跃/未归档 |
+| [d2l-ai/d2l-zh](https://github.com/d2l-ai/d2l-zh) | 课程、教材与教程 | 教程、教材 | 适合系统学习算法、机器学习或深度学习。 | 81491 | 活跃/未归档 |
+| [labmlai/annotated_deep_learning_paper_implementations](https://github.com/labmlai/annotated_deep_learning_paper_implementations) | 课程、教材与教程 | 教程、教材 | 适合系统学习算法、机器学习或深度学习。 | 67540 | 活跃/未归档 |
+| [scutan90/DeepLearning-500-questions](https://github.com/scutan90/DeepLearning-500-questions) | 课程、教材与教程 | 教程、教材 | 适合系统学习算法、机器学习或深度学习。 | 57652 | 活跃/未归档 |
+| [exacity/deeplearningbook-chinese](https://github.com/exacity/deeplearningbook-chinese) | 课程、教材与教程 | 教程、教材 | 适合系统学习算法、机器学习或深度学习。 | 37787 | 活跃/未归档 |
+| [nndl/nndl](https://github.com/nndl/nndl) | 课程、教材与教程 | 教程、教材 | 适合系统学习算法、机器学习或深度学习。 | 19308 | 活跃/未归档 |
+| [MorvanZhou/tutorials](https://github.com/MorvanZhou/tutorials) | 课程、教材与教程 | 教程、教材 | 适合系统学习算法、机器学习或深度学习。 | 13056 | 活跃/未归档 |
+| [nndl/nndl-practice](https://github.com/nndl/nndl-practice) | 课程、教材与教程 | 教程、教材 | 适合系统学习算法、机器学习或深度学习。 | 3525 | 活跃/未归档 |
+| [521xueweihan/HelloGitHub](https://github.com/521xueweihan/HelloGitHub) | 学习路线与资源索引 | 学习路线、资源 | 学习路线、课程资料或开源项目索引。 | 180825 | 活跃/未归档 |
+| [DopplerHQ/awesome-interview-questions](https://github.com/DopplerHQ/awesome-interview-questions) | 学习路线与资源索引 | 学习路线、资源 | 学习路线、课程资料或开源项目索引。 | 84861 | 已归档 |
+| [lib-pku/libpku](https://github.com/lib-pku/libpku) | 学习路线与资源索引 | 学习路线、资源 | 学习路线、课程资料或开源项目索引。 | 34073 | 活跃/未归档 |
+| [easychen/stack-roadmap](https://github.com/easychen/stack-roadmap) | 学习路线与资源索引 | 学习路线、资源 | 学习路线、课程资料或开源项目索引。 | 4586 | 活跃/未归档 |
 
-## 深度学习与机器学习（15）
+## Android与移动端（8）
 
-| 仓库 | 语言 | Stars | 中文用途 | 简介 |
-|---|---|---:|---|---|
-| [labmlai/annotated_deep_learning_paper_implementations](https://github.com/labmlai/annotated_deep_learning_paper_implementations) | Python | 67540 | 用于模型训练、视觉、语音、扩散模型或机器学习实践。 | 🧑‍🏫 60+ Implementations/tutorials of deep learning papers with side-by-side notes 📝; including transformers (original, xl, switch, feedback, vit, ...), optimizers (adam, adabelief, sophia, ...), gans(cyclegan, stylegan2, ...), 🎮 reinforcement learning (ppo, dqn), capsnet, distillation, ... 🧠 |
-| [coqui-ai/TTS](https://github.com/coqui-ai/TTS) | Python | 46111 | 用于模型训练、视觉、语音、扩散模型或机器学习实践。 | 🐸💬 - a deep learning toolkit for Text-to-Speech, battle-tested in research and production |
-| [OpenBMB/VoxCPM](https://github.com/OpenBMB/VoxCPM) | Python | 38433 | 用于模型训练、视觉、语音、扩散模型或机器学习实践。 | VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning |
-| [google-research/tuning_playbook](https://github.com/google-research/tuning_playbook) |  | 30356 | 用于模型训练、视觉、语音、扩散模型或机器学习实践。 | A playbook for systematically maximizing the performance of deep learning models. |
-| [CVHub520/X-AnyLabeling](https://github.com/CVHub520/X-AnyLabeling) | Python | 10635 | 用于模型训练、视觉、语音、扩散模型或机器学习实践。 | X-AnyLabeling: A lightweight, efficient, and unified cross-platform desktop application for annotating text, image, video, and multimodal data, combining versatile built-in tools with state-of-the-art AI models and flexible multi-format export. |
-| [huggingface/accelerate](https://github.com/huggingface/accelerate) | Python | 9911 | 用于模型训练、视觉、语音、扩散模型或机器学习实践。 | 🚀 A simple way to launch, train, and use PyTorch models on almost any device and distributed configuration, automatic mixed precision (including fp8), and easy-to-configure FSDP and DeepSpeed support |
-| [OFA-Sys/Chinese-CLIP](https://github.com/OFA-Sys/Chinese-CLIP) | Jupyter Notebook | 6014 | 用于模型训练、视觉、语音、扩散模型或机器学习实践。 | Chinese version of CLIP which achieves Chinese cross-modal retrieval and representation generation. |
-| [bubbliiiing/faster-rcnn-pytorch](https://github.com/bubbliiiing/faster-rcnn-pytorch) | Python | 1833 | 用于模型训练、视觉、语音、扩散模型或机器学习实践。 | 这是一个faster-rcnn的pytorch实现的库，可以利用voc数据集格式的数据进行训练。 |
-| [iMoonLab/yolov13](https://github.com/iMoonLab/yolov13) | Python | 1708 | 用于模型训练、视觉、语音、扩散模型或机器学习实践。 | Implementation of "YOLOv13: Real-Time Object Detection with Hypergraph-Enhanced Adaptive Visual Perception". |
-| [ZhugeKongan/torch-template-for-deep-learning](https://github.com/ZhugeKongan/torch-template-for-deep-learning) | Python | 1269 | 用于模型训练、视觉、语音、扩散模型或机器学习实践。 | Pytorch Implementations of large number  classical backbone CNNs, data enhancement, torch loss, attention, visualization and  some common algorithms. |
-| [bubbliiiing/yolov7-pytorch](https://github.com/bubbliiiing/yolov7-pytorch) | Python | 906 | 用于模型训练、视觉、语音、扩散模型或机器学习实践。 | 这是一个yolov7的库，可以用于训练自己的数据集。 |
-| [EasyLive2D/live2d-py](https://github.com/EasyLive2D/live2d-py) | C++ | 576 | 用于模型训练、视觉、语音、扩散模型或机器学习实践。 | Live2D Library for Python (C++ impl): Supports model loading, lip-sync, basic face rigging, and precise click test. |
-| [CompVis/zigma](https://github.com/CompVis/zigma) | Python | 351 | 用于模型训练、视觉、语音、扩散模型或机器学习实践。 | A PyTorch implementation of the paper  "ZigMa: A DiT-Style Mamba-based Diffusion Model" (ECCV 2024) |
-| [LYiHub/QWOP_rl_training_public](https://github.com/LYiHub/QWOP_rl_training_public) | Python | 227 | 用于模型训练、视觉、语音、扩散模型或机器学习实践。 | 跑步游戏强化学习训练框架 |
-| [OpenMOSS/DiRL](https://github.com/OpenMOSS/DiRL) | Python | 164 | 用于模型训练、视觉、语音、扩散模型或机器学习实践。 | A post-training framework for diffusion language models with supervised fine-tuning and reinforcement learning |
+| 仓库 | 细分用途 | 标签 | 中文说明 | Stars | 状态 |
+|---|---|---|---|---:|---|
+| [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk) | 系统、Root与模块 | Android、系统工具 | Android 系统增强、Root、补丁或兼容工具。 | 63167 | 活跃/未归档 |
+| [MustardChef/WSABuilds](https://github.com/MustardChef/WSABuilds) | 系统、Root与模块 | Android、系统工具 | Android 系统增强、Root、补丁或兼容工具。 | 18662 | 活跃/未归档 |
+| [Ackites/Nrfr](https://github.com/Ackites/Nrfr) | 系统、Root与模块 | Android、系统工具 | Android 系统增强、Root、补丁或兼容工具。 | 9118 | 活跃/未归档 |
+| [simondankelmann/Bluetooth-LE-Spam](https://github.com/simondankelmann/Bluetooth-LE-Spam) | 系统、Root与模块 | Android、系统工具 | Android 系统增强、Root、补丁或兼容工具。 | 4947 | 活跃/未归档 |
+| [Cateners/tiny_container](https://github.com/Cateners/tiny_container) | 系统、Root与模块 | Android、系统工具 | Android 系统增强、Root、补丁或兼容工具。 | 4257 | 活跃/未归档 |
+| [8Mi-Tech/LSPatch-ApkFactory](https://github.com/8Mi-Tech/LSPatch-ApkFactory) | 系统、Root与模块 | Android、系统工具 | Android 系统增强、Root、补丁或兼容工具。 | 123 | 活跃/未归档 |
+| [f-droid/fdroidclient](https://github.com/f-droid/fdroidclient) | 应用与商店 | Android应用 | Android 应用或开源应用分发工具。 | 3182 | 活跃/未归档 |
+| [alpha-liu-01/SpeedyNote](https://github.com/alpha-liu-01/SpeedyNote) | 应用与商店 | Android应用 | Android 应用或开源应用分发工具。 | 1687 | 活跃/未归档 |
 
-## 网络代理与远程控制（15）
+## 哔哩哔哩、影音与漫画（16）
 
-| 仓库 | 语言 | Stars | 中文用途 | 简介 |
-|---|---|---:|---|---|
-| [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | Rust | 150014 | 用于网络代理、规则订阅、下载加速、远程显示或设备控制。 | A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience |
-| [chen08209/FlClash](https://github.com/chen08209/FlClash) | Dart | 54937 | 用于网络代理、规则订阅、下载加速、远程显示或设备控制。 | A multi-platform proxy client based on ClashMeta,simple and easy to use, open-source and ad-free. |
-| [barry-ran/QtScrcpy](https://github.com/barry-ran/QtScrcpy) | C++ | 32317 | 用于网络代理、规则订阅、下载加速、远程显示或设备控制。 | Android real-time display control software |
-| [521xueweihan/GitHub520](https://github.com/521xueweihan/GitHub520) | Python | 29972 | 用于网络代理、规则订阅、下载加速、远程显示或设备控制。 | :kissing_heart: 让你“爱”上 GitHub，解决访问时图裂、加载慢的问题。（无需安装） |
-| [Loyalsoldier/clash-rules](https://github.com/Loyalsoldier/clash-rules) |  | 28716 | 用于网络代理、规则订阅、下载加速、远程显示或设备控制。 | 🦄️ 🎃 👻 Clash Premium 规则集(RULE-SET)，兼容 ClashX Pro、Clash for Windows 等基于 Clash Premium 内核的客户端。 |
-| [Z-Siqi/Clash-for-Windows_Chinese](https://github.com/Z-Siqi/Clash-for-Windows_Chinese) | JavaScript | 28583 | 用于网络代理、规则订阅、下载加速、远程显示或设备控制。 | Clash for Windows 的前汉化版. 现在提供 Clash for Windows 的改进版本, 这包括 Mihomo 核心替换, AnyTLS 等现代协议兼容 |
-| [mihomo-party-org/clash-party](https://github.com/mihomo-party-org/clash-party) | TypeScript | 26746 | 用于网络代理、规则订阅、下载加速、远程显示或设备控制。 | :electron: Another Mihomo GUI.  |
-| [wanghongenpin/proxypin](https://github.com/wanghongenpin/proxypin) | Dart | 14091 | 用于网络代理、规则订阅、下载加速、远程显示或设备控制。 | Open source free capture HTTP(S) traffic  software ProxyPin, supporting full platform systems |
-| [libnyanpasu/clash-nyanpasu](https://github.com/libnyanpasu/clash-nyanpasu) | Rust | 13225 | 用于网络代理、规则订阅、下载加速、远程显示或设备控制。 | Clash Nyanpasu～(∠・ω< )⌒☆​ |
-| [getsurfboard/surfboard](https://github.com/getsurfboard/surfboard) |  | 8665 | 用于网络代理、规则订阅、下载加速、远程显示或设备控制。 | https://getsurfboard.com |
-| [fmz200/wool_scripts](https://github.com/fmz200/wool_scripts) | Vim Snippet | 5749 | 用于网络代理、规则订阅、下载加速、远程显示或设备控制。 | 收集一些Loon、Surge、QuantumultX、ShadowRocket、Egern的配置与去广告规则。 |
-| [skydevil88/XboxDownload](https://github.com/skydevil88/XboxDownload) | C# | 3844 | 用于网络代理、规则订阅、下载加速、远程显示或设备控制。 | Xbox Download Assistant (Xbox下载助手) — Supports download acceleration for Xbox, Microsoft Store, PlayStation, Nintendo Switch, EA App, Battle.net, Epic Games, Ubisoft Connect, Riot Games, and Rockstar Games, and fixes access issues for Steam Store & Community and GitHub. |
-| [Hypostasis-Cat/HypoMux](https://github.com/Hypostasis-Cat/HypoMux) | Go | 3774 | 用于网络代理、规则订阅、下载加速、远程显示或设备控制。 | CN Windows 多网卡聚合与网络加速工具。一键融合有线、Wi-Fi、热点等连接，实现多路径传输与智能流量调度。 EN Windows multi-NIC network accelerator. Combine Ethernet, Wi-Fi, hotspots and more for multi-path transmission and smart traffic routing. |
-| [lfzk550/fanzha-ai-proxy](https://github.com/lfzk550/fanzha-ai-proxy) |  | 601 | 用于网络代理、规则订阅、下载加速、远程显示或设备控制。 | 国家反诈AI API 转 OpenAI 兼容格式反向代理服务 // 仅学习用途 |
-| [calico/basenji](https://github.com/calico/basenji) | Python | 475 | 用于网络代理、规则订阅、下载加速、远程显示或设备控制。 | Sequential regulatory activity predictions with deep convolutional neural networks. |
+| 仓库 | 细分用途 | 标签 | 中文说明 | Stars | 状态 |
+|---|---|---|---|---:|---|
+| [mihonapp/mihon](https://github.com/mihonapp/mihon) | 漫画与阅读 | 漫画、阅读器 | 漫画阅读客户端、扩展源或内容获取工具。 | 24146 | 活跃/未归档 |
+| [keiyoushi/extensions](https://github.com/keiyoushi/extensions) | 漫画与阅读 | 漫画、阅读器 | 漫画阅读客户端、扩展源或内容获取工具。 | 15158 | 活跃/未归档 |
+| [fumiama/copymanga](https://github.com/fumiama/copymanga) | 漫画与阅读 | 漫画、阅读器 | 漫画阅读客户端、扩展源或内容获取工具。 | 4339 | 活跃/未归档 |
+| [the1812/Bilibili-Evolved](https://github.com/the1812/Bilibili-Evolved) | B站客户端与模块 | B站、去广告、增强 | B站第三方客户端、去广告或体验增强工具。 | 30719 | 活跃/未归档 |
+| [guozhigq/pilipala](https://github.com/guozhigq/pilipala) | B站客户端与模块 | B站、去广告、增强 | B站第三方客户端、去广告或体验增强工具。 | 13809 | 已归档 |
+| [AIsouler/GKD_subscription](https://github.com/AIsouler/GKD_subscription) | B站客户端与模块 | B站、去广告、增强 | B站第三方客户端、去广告或体验增强工具。 | 12031 | 已归档 |
+| [yujincheng08/BiliRoaming](https://github.com/yujincheng08/BiliRoaming) | B站客户端与模块 | B站、去广告、增强 | B站第三方客户端、去广告或体验增强工具。 | 11546 | 已归档 |
+| [hanydd/BilibiliSponsorBlock](https://github.com/hanydd/BilibiliSponsorBlock) | B站客户端与模块 | B站、去广告、增强 | B站第三方客户端、去广告或体验增强工具。 | 6201 | 活跃/未归档 |
+| [Lin-arm/GKD_subscription](https://github.com/Lin-arm/GKD_subscription) | B站客户端与模块 | B站、去广告、增强 | B站第三方客户端、去广告或体验增强工具。 | 5784 | 活跃/未归档 |
+| [jay3-yy/BiliPai](https://github.com/jay3-yy/BiliPai) | B站客户端与模块 | B站、去广告、增强 | B站第三方客户端、去广告或体验增强工具。 | 4792 | 活跃/未归档 |
+| [BiliRoamingX/BiliRoamingX](https://github.com/BiliRoamingX/BiliRoamingX) | B站客户端与模块 | B站、去广告、增强 | B站第三方客户端、去广告或体验增强工具。 | 3836 | 活跃/未归档 |
+| [shatyuka/Zhiliao](https://github.com/shatyuka/Zhiliao) | B站客户端与模块 | B站、去广告、增强 | B站第三方客户端、去广告或体验增强工具。 | 2824 | 活跃/未归档 |
+| [xmcp/pakku.js](https://github.com/xmcp/pakku.js) | B站客户端与模块 | B站、去广告、增强 | B站第三方客户端、去广告或体验增强工具。 | 2690 | 活跃/未归档 |
+| [Hyper-Beast/BiliTV](https://github.com/Hyper-Beast/BiliTV) | B站客户端与模块 | B站、去广告、增强 | B站第三方客户端、去广告或体验增强工具。 | 809 | 活跃/未归档 |
+| [david082321/BiliRoaming-PHP-Server](https://github.com/david082321/BiliRoaming-PHP-Server) | B站客户端与模块 | B站、去广告、增强 | B站第三方客户端、去广告或体验增强工具。 | 274 | 已归档 |
+| [Xposed-Modules-Repo/icu.freedomIntrovert.biliSendCommAntifraud](https://github.com/Xposed-Modules-Repo/icu.freedomIntrovert.biliSendCommAntifraud) | B站客户端与模块 | B站、去广告、增强 | B站第三方客户端、去广告或体验增强工具。 | 42 | 活跃/未归档 |
 
-## 科研写作与学术工具（11）
+## 网络代理与远程控制（14）
 
-| 仓库 | 语言 | Stars | 中文用途 | 简介 |
-|---|---|---:|---|---|
-| [Imbad0202/academic-research-skills](https://github.com/Imbad0202/academic-research-skills) | Python | 51036 | 服务于论文阅读、科研写作、学术汇报或文献工作流。 | Academic Research Skills for Claude Code: research → write → review → revise → finalize |
-| [Robbyant/lingbot-map](https://github.com/Robbyant/lingbot-map) | Python | 17533 | 服务于论文阅读、科研写作、学术汇报或文献工作流。 | [ECCV 2026 Best Paper Award Candidate] LingBot-Map: Geometric Context Transformer for Streaming 3D Reconstruction |
-| [WUBING2023/PaperSpine](https://github.com/WUBING2023/PaperSpine) | Python | 5838 | 服务于论文阅读、科研写作、学术汇报或文献工作流。 | PaperSpine5 — local-first, evidence-bound paper research, writing, figures, review and delivery. Download: https://wubing2023.github.io/PaperSpine/v5/ |
-| [zouzhekang/YJYpaper](https://github.com/zouzhekang/YJYpaper) | HTML | 3644 | 服务于论文阅读、科研写作、学术汇报或文献工作流。 | 一个用来记录武汉大学杨景媛论文问题的仓库 |
-| [bighuang624/AI-research-tools](https://github.com/bighuang624/AI-research-tools) |  | 3469 | 服务于论文阅读、科研写作、学术汇报或文献工作流。 | :hammer:AI 方向好用的科研工具 |
-| [Boom5426/Nature-Paper-Skills](https://github.com/Boom5426/Nature-Paper-Skills) | Python | 561 | 服务于论文阅读、科研写作、学术汇报或文献工作流。 | An AI-powered Scientific Writing Workflow: Agent skills for drafting, revising, auditing, and resubmitting Nature-style journal manuscripts. |
-| [AI272/speaker](https://github.com/AI272/speaker) | Python | 458 | 服务于论文阅读、科研写作、学术汇报或文献工作流。 | Speaker is a Codex skill project for academic presentations: read real.pptx, combine text extraction, PPTX structure parsing, page-by-page rendering, OCR, and visual review to generate page-by-page speaker notes, and write a clean version of the lecture into the PowerPoint comment area. |
-| [LMDHQ-0420/ResearchPilot-Skills](https://github.com/LMDHQ-0420/ResearchPilot-Skills) | Batchfile | 307 | 服务于论文阅读、科研写作、学术汇报或文献工作流。 | Automated Academic Research Workflow Skill. From direction exploration, literature review, and idea development to experiment design, code implementation, and paper writing. |
-| [yunshenwuchuxun/latex-paper-skills](https://github.com/yunshenwuchuxun/latex-paper-skills) | TeX | 266 | 服务于论文阅读、科研写作、学术汇报或文献工作流。 | A modular skill-based framework for writing, revising, and managing LaTeX academic papers with AI assistance. |
-| [SNL-UCSB/literature-survey-skill](https://github.com/SNL-UCSB/literature-survey-skill) | Shell | 106 | 服务于论文阅读、科研写作、学术汇报或文献工作流。 | A Claude Code skill that takes PhD students from a pile of papers to a synthesized understanding of what the field knows, what it doesn't, and where to push next. Intent → Triage → Deepen → Synthesize. |
-| [sbfnk/preprint-match](https://github.com/sbfnk/preprint-match) | Python | 3 | 服务于论文阅读、科研写作、学术汇报或文献工作流。 | Predict which journal a medRxiv preprint will be published in |
+| 仓库 | 细分用途 | 标签 | 中文说明 | Stars | 状态 |
+|---|---|---|---|---:|---|
+| [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) | 代理客户端与规则 | 代理、规则 | 代理客户端、内核、订阅规则或网络访问辅助。 | 150014 | 活跃/未归档 |
+| [chen08209/FlClash](https://github.com/chen08209/FlClash) | 代理客户端与规则 | 代理、规则 | 代理客户端、内核、订阅规则或网络访问辅助。 | 54937 | 活跃/未归档 |
+| [521xueweihan/GitHub520](https://github.com/521xueweihan/GitHub520) | 代理客户端与规则 | 代理、规则 | 代理客户端、内核、订阅规则或网络访问辅助。 | 29972 | 活跃/未归档 |
+| [Loyalsoldier/clash-rules](https://github.com/Loyalsoldier/clash-rules) | 代理客户端与规则 | 代理、规则 | 代理客户端、内核、订阅规则或网络访问辅助。 | 28716 | 活跃/未归档 |
+| [Z-Siqi/Clash-for-Windows_Chinese](https://github.com/Z-Siqi/Clash-for-Windows_Chinese) | 代理客户端与规则 | 代理、规则 | 代理客户端、内核、订阅规则或网络访问辅助。 | 28583 | 活跃/未归档 |
+| [mihomo-party-org/clash-party](https://github.com/mihomo-party-org/clash-party) | 代理客户端与规则 | 代理、规则 | 代理客户端、内核、订阅规则或网络访问辅助。 | 26746 | 活跃/未归档 |
+| [libnyanpasu/clash-nyanpasu](https://github.com/libnyanpasu/clash-nyanpasu) | 代理客户端与规则 | 代理、规则 | 代理客户端、内核、订阅规则或网络访问辅助。 | 13225 | 活跃/未归档 |
+| [getsurfboard/surfboard](https://github.com/getsurfboard/surfboard) | 代理客户端与规则 | 代理、规则 | 代理客户端、内核、订阅规则或网络访问辅助。 | 8665 | 活跃/未归档 |
+| [fmz200/wool_scripts](https://github.com/fmz200/wool_scripts) | 代理客户端与规则 | 代理、规则 | 代理客户端、内核、订阅规则或网络访问辅助。 | 5749 | 活跃/未归档 |
+| [skydevil88/XboxDownload](https://github.com/skydevil88/XboxDownload) | 网络加速与下载 | 网络加速、下载 | 网络聚合、下载加速或连接优化工具。 | 3844 | 活跃/未归档 |
+| [Hypostasis-Cat/HypoMux](https://github.com/Hypostasis-Cat/HypoMux) | 网络加速与下载 | 网络加速、下载 | 网络聚合、下载加速或连接优化工具。 | 3774 | 活跃/未归档 |
+| [barry-ran/QtScrcpy](https://github.com/barry-ran/QtScrcpy) | 远程控制与串流 | 远程控制、串流 | 手机投屏、设备远控、桌面控制或串流。 | 32317 | 活跃/未归档 |
+| [viarotel-org/escrcpy](https://github.com/viarotel-org/escrcpy) | 远程控制与串流 | 远程控制、串流 | 手机投屏、设备远控、桌面控制或串流。 | 12008 | 活跃/未归档 |
+| [galaxy-s10/billd-desk](https://github.com/galaxy-s10/billd-desk) | 远程控制与串流 | 远程控制、串流 | 手机投屏、设备远控、桌面控制或串流。 | 8375 | 活跃/未归档 |
 
-## 安全研究与渗透测试（8）
+## 安全、隐私与测试（8）
 
-| 仓库 | 语言 | Stars | 中文用途 | 简介 |
-|---|---|---:|---|---|
-| [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) |  | 121997 | 安全研究、渗透测试、网络审计或取证相关工具。 | A collection of various awesome lists for hackers, pentesters and security researchers |
-| [sqlmapproject/sqlmap](https://github.com/sqlmapproject/sqlmap) | Python | 38639 | 安全研究、渗透测试、网络审计或取证相关工具。 | Automatic SQL injection and database takeover tool |
-| [moonD4rk/HackBrowserData](https://github.com/moonD4rk/HackBrowserData) | Go | 14592 | 安全研究、渗透测试、网络审计或取证相关工具。 | Extract and decrypt browser data, supporting multiple data types, runnable on various operating systems (macOS, Windows, Linux). |
-| [jo-inc/camofox-browser](https://github.com/jo-inc/camofox-browser) | JavaScript | 11499 | 安全研究、渗透测试、网络审计或取证相关工具。 | Stealth headless browser for AI agents — bypass Cloudflare, bot detection, and anti-scraping. Drop-in Puppeteer/Playwright replacement. |
-| [baihengaead/wlan-sec-test-tool](https://github.com/baihengaead/wlan-sec-test-tool) | Python | 4243 | 安全研究、渗透测试、网络审计或取证相关工具。 | 无线网络安全测试工具，支持测试WPA/WPA2/WPA3、多开并发、自动化测试连接，需自定义密码本 |
-| [conwnet/wpa-dictionary](https://github.com/conwnet/wpa-dictionary) | Python | 3869 | 安全研究、渗透测试、网络审计或取证相关工具。 | WPA/WPA2 密码字典，用于 wifi 密码暴力破解 |
-| [EvilAnne/lzCloudSecurity](https://github.com/EvilAnne/lzCloudSecurity) |  | 1058 | 安全研究、渗透测试、网络审计或取证相关工具。 | 《云安全攻防入门》教材 |
-| [bingofreedom/SheerID-Verification-Tool-Platinum](https://github.com/bingofreedom/SheerID-Verification-Tool-Platinum) |  | 106 | 安全研究、渗透测试、网络审计或取证相关工具。 | Antigravity Custom v2 (Platinum Satset Edition) - Advanced SheerID Student Verification Tool for Gemini Advanced. Feature: Typing Mimicry, Noise Injection, and Dynamic Layout Variance. |
+| 仓库 | 细分用途 | 标签 | 中文说明 | Stars | 状态 |
+|---|---|---|---|---:|---|
+| [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) | 渗透测试与攻防 | 安全、渗透测试 | 仅用于授权环境的安全测试、渗透与攻防学习。 | 121997 | 活跃/未归档 |
+| [sqlmapproject/sqlmap](https://github.com/sqlmapproject/sqlmap) | 渗透测试与攻防 | 安全、渗透测试 | 仅用于授权环境的安全测试、渗透与攻防学习。 | 38639 | 活跃/未归档 |
+| [baihengaead/wlan-sec-test-tool](https://github.com/baihengaead/wlan-sec-test-tool) | 渗透测试与攻防 | 安全、渗透测试 | 仅用于授权环境的安全测试、渗透与攻防学习。 | 4243 | 活跃/未归档 |
+| [conwnet/wpa-dictionary](https://github.com/conwnet/wpa-dictionary) | 渗透测试与攻防 | 安全、渗透测试 | 仅用于授权环境的安全测试、渗透与攻防学习。 | 3869 | 活跃/未归档 |
+| [EvilAnne/lzCloudSecurity](https://github.com/EvilAnne/lzCloudSecurity) | 渗透测试与攻防 | 安全、渗透测试 | 仅用于授权环境的安全测试、渗透与攻防学习。 | 1058 | 活跃/未归档 |
+| [moonD4rk/HackBrowserData](https://github.com/moonD4rk/HackBrowserData) | 抓包、取证与隐私 | 抓包、取证、浏览器 | 用于网络抓包、浏览器数据分析或隐私研究。 | 14592 | 活跃/未归档 |
+| [wanghongenpin/proxypin](https://github.com/wanghongenpin/proxypin) | 抓包、取证与隐私 | 抓包、取证、浏览器 | 用于网络抓包、浏览器数据分析或隐私研究。 | 14091 | 活跃/未归档 |
+| [jo-inc/camofox-browser](https://github.com/jo-inc/camofox-browser) | 抓包、取证与隐私 | 抓包、取证、浏览器 | 用于网络抓包、浏览器数据分析或隐私研究。 | 11499 | 活跃/未归档 |
 
-## 其他工具与项目（7）
+## 开发工具与Web（7）
 
-| 仓库 | 语言 | Stars | 中文用途 | 简介 |
-|---|---|---:|---|---|
-| [lib-pku/libpku](https://github.com/lib-pku/libpku) | TeX | 34073 | 通用工具或暂未明确归类的项目。 | 贵校课程资料民间整理 |
-| [fmhy/FMHY](https://github.com/fmhy/FMHY) |  | 15014 | 通用工具或暂未明确归类的项目。 | https://fmhy.net/ |
-| [studyzy/imewlconverter](https://github.com/studyzy/imewlconverter) | C# | 10416 | 通用工具或暂未明确归类的项目。 | ”深蓝词库转换“ 一款开源免费的输入法词库转换程序 |
-| [conda-forge/miniforge](https://github.com/conda-forge/miniforge) | Shell | 10249 | 通用工具或暂未明确归类的项目。 | A conda-forge distribution. |
-| [ThirteenAG/GTAIV.EFLC.FusionFix](https://github.com/ThirteenAG/GTAIV.EFLC.FusionFix) | C++ | 3378 | 通用工具或暂未明确归类的项目。 | This project aims to fix or address some issues in Grand Theft Auto IV: The Complete Edition |
-| [duo001/evil.js](https://github.com/duo001/evil.js) |  | 2545 | 通用工具或暂未明确归类的项目。 | Use with caution |
-| [alpha-liu-01/SpeedyNote](https://github.com/alpha-liu-01/SpeedyNote) | C++ | 1687 | 通用工具或暂未明确归类的项目。 | A simple note app with good performance and PDF import support |
+| 仓库 | 细分用途 | 标签 | 中文说明 | Stars | 状态 |
+|---|---|---|---|---:|---|
+| [webadderallorg/Recordly](https://github.com/webadderallorg/Recordly) | 开发环境与工具 | 开发工具 | 开发环境、桌面工具或通用开发组件。 | 32915 | 活跃/未归档 |
+| [studyzy/imewlconverter](https://github.com/studyzy/imewlconverter) | 开发环境与工具 | 开发工具 | 开发环境、桌面工具或通用开发组件。 | 10416 | 活跃/未归档 |
+| [conda-forge/miniforge](https://github.com/conda-forge/miniforge) | 开发环境与工具 | 开发工具 | 开发环境、桌面工具或通用开发组件。 | 10249 | 活跃/未归档 |
+| [EasyLive2D/live2d-py](https://github.com/EasyLive2D/live2d-py) | 开发环境与工具 | 开发工具 | 开发环境、桌面工具或通用开发组件。 | 576 | 活跃/未归档 |
+| [layui/layui](https://github.com/layui/layui) | 前端、UI与可视化 | Web、前端 | Web 前端、UI 组件或交互可视化工具。 | 30580 | 活跃/未归档 |
+| [wanglin2/mind-map](https://github.com/wanglin2/mind-map) | 前端、UI与可视化 | Web、前端 | Web 前端、UI 组件或交互可视化工具。 | 12802 | 活跃/未归档 |
+| [TouchBugs/web](https://github.com/TouchBugs/web) | 前端、UI与可视化 | Web、前端 | 点击香蕉增加数字的网页小游戏。 | 1 | 活跃/未归档 |
 
-## 生物信息与农业表型（7）
+## 自托管、效率与副业（3）
 
-| 仓库 | 语言 | Stars | 中文用途 | 简介 |
-|---|---|---:|---|---|
-| [bioperl/bioperl-live](https://github.com/bioperl/bioperl-live) | Perl | 323 | 与基因组、序列建模、作物表型或生物信息分析相关。 | Core BioPerl 1.x code |
-| [uci-cbcl/DanQ](https://github.com/uci-cbcl/DanQ) | Groff | 164 | 与基因组、序列建模、作物表型或生物信息分析相关。 | A hybrid convolutional and recurrent neural network for predicting the function of DNA sequences |
-| [jzhoulab/puffin](https://github.com/jzhoulab/puffin) | Python | 109 | 与基因组、序列建模、作物表型或生物信息分析相关。 | deep learning-inspired explainable sequence model for transcription initiation |
-| [p-koo/learning_sequence_motifs](https://github.com/p-koo/learning_sequence_motifs) | Python | 34 | 与基因组、序列建模、作物表型或生物信息分析相关。 | "Representation Learning of Genomic Sequence Motifs with Convolutional Neural Networks" by Peter K. Koo and Sean R. Eddy |
-| [Pranesh6767/Plant-Disease-Detection-Using-Digital-Image-Processing](https://github.com/Pranesh6767/Plant-Disease-Detection-Using-Digital-Image-Processing) | Jupyter Notebook | 29 | 与基因组、序列建模、作物表型或生物信息分析相关。 | The plant disease detection system with efficient image segmentation and feature extraction algorithms and statistical models. |
-| [Deep-Breeding/GEFormer](https://github.com/Deep-Breeding/GEFormer) | Python | 18 | 与基因组、序列建模、作物表型或生物信息分析相关。 | GEFormer is a genome-wide prediction model for genotype-environment interactions based on a deep learning approach designed to predict maize phenotypes using genotype and environment jointly. |
-| [priyammaz/RootNoduleDetection](https://github.com/priyammaz/RootNoduleDetection) | Python | 1 | 与基因组、序列建模、作物表型或生物信息分析相关。 |  |
+| 仓库 | 细分用途 | 标签 | 中文说明 | Stars | 状态 |
+|---|---|---|---|---:|---|
+| [easychen/opc-methodology](https://github.com/easychen/opc-methodology) | 个人效率与副业 | 副业、个人效率 | 个人效率、独立开发或副业方法资料。 | 16886 | 活跃/未归档 |
+| [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) | 自托管与资源索引 | 自托管、资源 | 自托管服务或互联网资源目录。 | 324853 | 活跃/未归档 |
+| [fmhy/FMHY](https://github.com/fmhy/FMHY) | 自托管与资源索引 | 自托管、资源 | 自托管服务或互联网资源目录。 | 15014 | 活跃/未归档 |
 
-## 生活娱乐与内容增强（3）
+## 生活、娱乐与杂项（10）
 
-| 仓库 | 语言 | Stars | 中文用途 | 简介 |
-|---|---|---:|---|---|
-| [Gar-b-age/CookLikeHOC](https://github.com/Gar-b-age/CookLikeHOC) | JavaScript | 24766 | 用于内容消费、娱乐体验、去广告或生活资料整理。 | 🥢像老乡鸡🐔那样做饭。已添加2026年发布的《老乡鸡菜品溯源报告 2.0中新出现的菜品。主要部分于2024年完工，非老乡鸡官方仓库。文字来自《老乡鸡菜品溯源报告》，并做归纳、编辑与整理。CookLikeHOC. |
-| [Hyper-Beast/BiliTV](https://github.com/Hyper-Beast/BiliTV) | Dart | 809 | 用于内容消费、娱乐体验、去广告或生活资料整理。 | 一款基于Bilipai开发的哔哩哔哩TV版APP |
-| [david082321/BiliRoaming-PHP-Server](https://github.com/david082321/BiliRoaming-PHP-Server) | PHP | 274 | 用于内容消费、娱乐体验、去广告或生活资料整理。 | 自建哔哩漫游解析服务器(PHP) |
+| 仓库 | 细分用途 | 标签 | 中文说明 | Stars | 状态 |
+|---|---|---|---|---:|---|
+| [duo001/evil.js](https://github.com/duo001/evil.js) | 脚本与实验项目 | 脚本、实验项目 | 用途不明确的实验性项目，使用前应审查代码。 | 2545 | 活跃/未归档 |
+| [chao325/Evil.js](https://github.com/chao325/Evil.js) | 脚本与实验项目 | 脚本、实验项目 | 用途不明确的 JavaScript 实验项目，使用前应审查代码。 | 334 | 活跃/未归档 |
+| [geoisam/FuckScripts](https://github.com/geoisam/FuckScripts) | 脚本与实验项目 | 脚本、实验项目 | 高风险脚本集合，使用前需逐项审查。 | 282 | 活跃/未归档 |
+| [bingofreedom/SheerID-Verification-Tool-Platinum](https://github.com/bingofreedom/SheerID-Verification-Tool-Platinum) | 脚本与实验项目 | 脚本、实验项目 | 第三方身份验证自动化工具，涉及合规风险，不建议用于规避资格限制。 | 106 | 活跃/未归档 |
+| [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) | 烹饪与生活 | 烹饪 | 生活与烹饪资料。 | 102589 | 活跃/未归档 |
+| [Gar-b-age/CookLikeHOC](https://github.com/Gar-b-age/CookLikeHOC) | 烹饪与生活 | 烹饪 | 生活与烹饪资料。 | 24766 | 活跃/未归档 |
+| [ThirteenAG/GTAIV.EFLC.FusionFix](https://github.com/ThirteenAG/GTAIV.EFLC.FusionFix) | 游戏与娱乐 | 娱乐 | 游戏修复、娱乐或趣味项目。 | 3378 | 活跃/未归档 |
+| [Shiroki-Y/College-Student-Missing](https://github.com/Shiroki-Y/College-Student-Missing) | 游戏与娱乐 | 娱乐 | 大学生登山失踪事件资料整理。 | 44 | 活跃/未归档 |
+| [zouzhekang/YJYpaper](https://github.com/zouzhekang/YJYpaper) | 资料存档与社会议题 | 资料存档 | 武汉大学杨景媛论文争议资料记录。 | 3644 | 活跃/未归档 |
+| [wangzhiye-tiancai/mysupervisor_save](https://github.com/wangzhiye-tiancai/mysupervisor_save) | 资料存档与社会议题 | 资料存档 | 导师评价相关资源与历史数据存档。 | 2273 | 活跃/未归档 |
 
-## Python / 数据与自动化（2）
+## 其他待整理（2）
 
-| 仓库 | 语言 | Stars | 中文用途 | 简介 |
-|---|---|---:|---|---|
-| [PaddlePaddle/PaddleX](https://github.com/PaddlePaddle/PaddleX) | Python | 6269 | 通用工具或暂未明确归类的项目。 | All-in-One Development Tool based on PaddlePaddle |
-| [LeaveC/xianyubot](https://github.com/LeaveC/xianyubot) | Python | 79 | 通用工具或暂未明确归类的项目。 | 闲鱼AI客服机器人系统，实现闲鱼平台7×24小时自动化值守，支持多专家协同决策、智能议价和上下文感知对话。 |
+| 仓库 | 细分用途 | 标签 | 中文说明 | Stars | 状态 |
+|---|---|---|---|---:|---|
+| [amitbl/blocktube](https://github.com/amitbl/blocktube) | 尚未归入明确用途 | 待复核 | 项目原始简介：YouTube™ content blocker | 1409 | 活跃/未归档 |
+| [Xposed-Modules-Repo/com.chrxw.purenga](https://github.com/Xposed-Modules-Repo/com.chrxw.purenga) | 尚未归入明确用途 | 待复核 | 项目原始简介：NGA玩家论坛去广告模块 | 164 | 活跃/未归档 |
+
+## 使用建议
+
+- 想找科研项目：先看“生物信息、基因组与育种”“科研与学术工作流”。
+- 想找可直接使用的软件：按细分用途筛选，再优先查看未归档且近期有推送的仓库。
+- 安全、脚本与第三方增强类仓库仅作索引；运行前检查源码、权限、许可证与合规风险。
+- 该仓库记录的是整理快照，新增或取消 Star 后需再次同步。
