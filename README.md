@@ -6,7 +6,7 @@
 - 重整日期：2026-10-15
 - 同步范围：GitHub Starred API 第 1 页（100 条）+ 第 2 页（47 条），共 147 条（已获取全部分页）
 - 排序规则：按 `starred_at`（创建 Star 时间）倒序同步
-- 交互页面：[打开可筛选知识库](./TouchBugs_GitHub_Stars_中文分类知识库.html)
+- 交互页面：[打开可筛选知识库](https://touchbugs.github.io/star_organize/)
 - 说明：同一仓库选一个主类型便于浏览，同时保留多标签表达交叉用途；“其他待整理”建议后续人工确认。
 
 ## 快速导航
